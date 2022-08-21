@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Age In Minutes</string>
+    <string name="select_date">Select Date</string>
+    <string name="_00000000">00000000</string>
+    <string name="_00_00_0000">00/00/0000</string>
+    <string name="age_in_minutes">Age In Minutes</string>
+    <string name="age_in_hours">Age In Hours</string>
+    <string name="_00000">00000</string>
+    <string name="age_in_seocnds">Age In Seocnds</string>
+    <string name="age_in_days">Age In Days</string>
+    <string name="_0000">0000</string>
+</resources>
